@@ -8,6 +8,7 @@ deploy:
   app: nameless-ridge-1643
   on:
     repo: ShigeruIchinoki/rails_enpit
+    branch: master
 
 addons:
   postgresql: "9.3"
